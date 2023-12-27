@@ -1,0 +1,8 @@
+.table {
+    background-color: blueviolet;
+    width: 300px;
+    position: absolute;
+    left: 70%;
+    text-align: left;
+    color: azure;
+}
